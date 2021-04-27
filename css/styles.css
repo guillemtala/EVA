@@ -214,4 +214,10 @@ html {
     .relleno-columnas {
         padding: 2vw;
     }
+    #section9 h3 {
+        font-size: 6vw;
+    }
+    .language {
+        font-size: 5vw;
+    }
 }
